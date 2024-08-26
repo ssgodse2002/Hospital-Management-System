@@ -1,0 +1,1 @@
+The Hospital Management System is a web application designed to manage the hospital's operations efficiently. It includes functionalities for admin login, user sign-in, doctor login, appointment scheduling, and a contact section.
